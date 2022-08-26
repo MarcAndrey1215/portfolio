@@ -102,7 +102,7 @@ header .follow a:hover{
     padding: 1rem 1.5rem;
     font-size: 3rem;
     cursor: pointer;
-    display: none;
+    
 }
 .cursor-1{
     position: absolute;
